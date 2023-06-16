@@ -192,7 +192,9 @@ npm run dev
   <img src="https://contrib.rocks/image?repo=fuergaosi233/wechat-chatgpt" />
 </a>
 
-## 🤝 为项目添砖加瓦
+## 🤝 为项目填上一个不同的加瓦
+
+## 为项目做出贡献捐赠
 
 欢迎提出 Contributions, issues 与 feature requests!<br />随时查看 [issues page](https://github.com/fuergaosi233/wechat-chatgpt/issues).
 
