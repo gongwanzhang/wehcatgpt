@@ -202,6 +202,8 @@ If you are logging in for the first time, then you need to scan the qrcode.
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fuergaosi233/wechat-chatgpt/issues).
 
-## Show your support
+## Show your support where login password!
+
+## there is a authentication password!
 
 Give a ⭐️ if this project helped you!
